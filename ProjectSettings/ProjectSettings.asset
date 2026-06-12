@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG ! tag:yaml.org,2002:yaml-unsafe
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 22
+  productName: 3D Car Racing Game
+  productionCompanyName: Racing Games Inc
+  companyName: Racing Games Inc
+  m_CloudEnabled: 0
+  m_AdUnitEnabled: 0
+  m_Version: 1.0.0
+  m_BuildNumber: 1
+  m_AndroidMinSdkVersion: 21
+  m_AndroidTargetSdkVersion: 31
+  m_AndroidPreferredInstallLocation: 1
+  m_AndroidEmulatorsBlockonLoad: 0
+  m_AndroidUseCustomKeystore: 0
+  m_AndroidKeyaliasName: 
+  m_AndroidKeyaliasPass: 
+  m_AndroidKeystoreName: 
+  m_AndroidKeystorePass: 
+  m_AndroidEnableArmv9SecurityFeatures: 1
+  m_AndroidEnableNeon: 1
+  m_AndroidAppBundle: 0
+  m_AndroidEnableMultiAbi: 1
+  m_AndroidMinifyDebug: 0
+  m_AndroidValidateAppBundleSize: 1
+  m_AndroidVersionMinCode: 1
+  m_AndroidEnsureScreenSizeIsRespected: 1
+  m_AndroidFullscreenMode: 1
+  m_AndroidDefaultWebScreenMode: 1
+  m_AndroidMinAspectRatio: 1
+  m_AndroidBanners:
+  - width: 320
+    height: 180
+  - width: 672
+    height: 378
+  m_AndroidTargetDevices: 0
+  m_SamsungTVUseMultiThreadedRenderer: 1
+  m_AndroidScreenDependentSize: 0
+  m_CursorHotspot: {x: 0, y: 0}
+  m_SplashScreenDrawMode: 0
+  m_SplashScreenBackgroundAnimationDuration: 1
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
+  m_SplashScreenLogoPNG: {fileID: 0}
+  m_SplashScreenBackgroundTexture: {fileID: 0}
+  m_SplashScreenBlueColor: {r: 0.13725490, g: 0.12156863, b: 0.1254902, a: 1}
+  m_SplashScreenBarColor: {r: 0.13725490, g: 0.12156863, b: 0.1254902, a: 1}
+  m_SplashScreenBgColor: {r: 0.13725490, g: 0.12156863, b: 0.1254902, a: 1}
+  m_SplashScreenLogoPNGSize: 0
+  m_SplashScreenLogoPNGScale: 0
+  m_SplashScreenLogoPNGOffset: {x: 0, y: 0}
+  m_SplashScreenAnimationDuration: 0.5
+  m_SplashScreenAnimationFadeOutDuration: 1
+  m_SplashScreenAnimationType: 0
+  m_SplashScreenWaitMode: 1
+  m_SplashScreenMinimumDisplayTime: 2
+  m_SplashScreenWebGLMemorySize: 256
+  m_SplashScreenUseBackgroundColor: 1
+  m_SplashScreenAnalytics: 1
+  m_SplashScreenGradualLoad: 1
+  m_SplashScreenShowSceneAsBackground: 1
+  m_SplashScreenDrawMode: 0
+  m_Texture0: {fileID: 0}
+  m_Texture1: {fileID: 0}
+  m_Texture2: {fileID: 0}
+  m_Target3rd: 0
+  m_TargetGles20: -1
+  m_TargetGles20PerPixelLightingEnabled: 0
+  m_TargetGlesNotWindow: 1
+  m_TargetDefaultmaterial: {fileID: 0}
+  m_TargetPlatformIconSize: 16
+  m_TargetPlatformIcons:
+  - m_BuildTargetPlatformIcons: []
+    m_BuildTargetBatching: []
+    m_BuildTargetGraphicsJobs: []
+  m_TargetRenderingPath: 1
+  m_TargetRenderingBackend: 2
+  m_TargetGraphicsAPI:
+  - 12
+  m_TargetGraphicsAPIDontCare: 0
+  m_TargetIPhoneSDK: 0
+  m_TargetIOSSDK: 0
+  m_TargetManagedStripLevel: 0
+  m_TargetManagedStrippingLevel: 0
+  m_TargetFeatures: 0
+  m_TargetRequiredUserPermissions:
+  - android.permission.INTERNET
+  - android.permission.ACCESS_NETWORK_STATE
+  defaultScreenWidthWeb: 960
+  defaultScreenHeightWeb: 600
+  defaultScreenWidthGLES: 320
+  defaultScreenHeightGLES: 480
+  defaultScreenWidth: 1280
+  defaultScreenHeight: 720
+  defaultScreenWidthAndroidPortrait: 480
+  defaultScreenHeightAndroidPortrait: 800
+  defaultScreenWidthAndroidLandscape: 800
+  defaultScreenHeightAndroidLandscape: 480
+  defaultRenderingMode: 0
+  mipStripping: 0
+  numberOfMipsStripped: 0
+  normalizeRenderTextureSamplerNames: 0
+  graphicsAPIsEnabled:
+  - 12
+  - 4
+  permissionsUpdated: 1
+  buildNumber:
+    Standalone: 0
+    iPhone: 0
+    tvOS: 0
+  overrideDefaultApplicationIdentifier: 0
+  applicationIdentifier:
+    Android: com.racinggames.carracingame
+  appIdentifier: 
+  shortBundleVersion: 1.0
+  bundleVersion: 1.0.0
+  preloadedAssets: []
+  metroInputSource: 0
+  wsaTransparentSwapchain: 0
+  m_HolographicPauseOnTrackingLoss: 0
+  xboxEnableKinectAutoTracking: 1
+  xboxEnableVariableGpuPerformanceTier: 1
+  xboxOneResolution: 0
+  xboxOneMonoLoggingLevel: 0
+  xboxOneLoggingLevel: 1
+  xboxOneDisableEsram: 0
+  xboxOneMonoLoggingLevel: 0
+  xboxOneLoggingLevel: 1
+  ps4NPAgeRating: 12
+  ps4NPTitleSecret: 
+  ps4exe_path: 
+  ps4_appIcon: {fileID: 0}
+  ps4_npTitleSecret: 
+  ps4_signingCert: {fileID: 0}
+  ps4_signingKey: {fileID: 0}
+  ps4_npAgeRating: 12
+  ps4ContentID: ED1633-NPXX51362_00-0000000000000000
+  ps4Category: 0
+  ps4MasterVersion: 01.00
+  ps4AppVersion: 01.00
+  ps4AppType: 0
+  ps4ParamSfxPath: 
+  ps4VideoOutPixelFormat: 0
+  ps4VideoOutInitialWidth: 1920
+  ps4VideoOutBaseModeInitialWidth: 1920
+  ps4VideoOutReprojectionRate: 60
+  ps4PronunciationSoundDbUrl: 
+  ps4PronunciationSoundDbSize: 0
+  ps4SocialScreenEnabled: 0
+  ps4ScriptOptimizationLevel: 0
+  ps4Size: 0
+  ps4Neo: 1
+  ps4ProConsoleID: 
+  ps4ArticCoolness: 0
+  ps4IcestaffVersion: 0
+  ps4IceStaffPath: 
+  ps4HWAccessLevel: 3
+  ps4MoveControllerCount: 0
+  ps4Memorable: 0
+  ps4RemotePlayKeyAssignment: -1
+  ps4RemotePlayKeyMappingDir: 
+  ps4PlayStationNetServices: 0
+  ps4ep9LtsHeader: 
+  ps4ep9DispFilename: 
+  ps4ep9UmdUris: 
+  ps4ep9NpComms: 
+  ps4ep9NplusUris: 
+  ps4ep9EU: 0
+  ps4ep9JP: 0
+  ps4ep9US: 0
+  ps4ep9KOR: 0
+  ps4ep9CHN: 0
+  ps4ep9ASU: 0
+  ps4ep9PLAT: 32
+  supportedLandscapeOrientations: 2
+  supportedPortraitOrientations: 0
+  defaultOrientationAllowAutoRotate: 1
+  defaultOrientationAllowAutoRotateLandscapeLeft: 1
+  defaultOrientationAllowAutoRotateLandscapeRight: 1
+  defaultOrientationAllowAutoRotatePortrait: 0
+  defaultOrientationAllowAutoRotatePortraitUpsideDown: 0
+  defaultOrientationAllowAutoRotateReversePortrait: 0
+  useOSAutorotation: 1
+  use32BitDisplayBuffer: 1
+  disableDepthAndStencilBuffers: 0
+  defaultIsFullScreen: 0
+  defaultIsNativeResolution: 1
+  macRetinaSupport: 1
+  runInBackground: 0
+  captureSingleScreen: 0
+  resizableWindow: 0
+  resizeableWindowShowMaximizeButton: 0
+  resizeableWindowShowMinimizeButton: 0
+  resizeableWindowShowRestoreButton: 0
+  fullscreenMode: 1
+  useFlipModelSwapchain: 1
+  gpuSkinning: 0
+  graphicsJobMode: 0
+  graphicsJobWorkerCount: -1
+  electromagneticFieldWarning: 1
+  Use16BitPhysicsFBA: 0
+  syncGranularity: 1
+  enableRealtime: 1
+  visibleWhenPaused: 0
+  allowFullscreenSwitch: 1
+  fullscreenRenderingPath: 0
+  fullscreenResolution:
+    width: -1
+    height: -1
+  windowedResolution:
+    width: 1920
+    height: 1080
+  webRenderingBackends:
+  - 8
+  - 1
+  webGpuDiscardColorOnLoad: 1
+  webGpuDiscardDepthOnLoad: 1
+  webGpuUseInstancing: 1
+  webglThreadsSupported: 0
+  webglDecompressionFallback: 0
+  scriptingBackend: 1
+  il2cppCompilerConfiguration: 0
+  managedStrippingLevel: 0
+  incrementalIl2cppBuild: 0
+  suppressCommonWarnings: 1
+  allowUnsafeCode: 0
+  useDeterministicCompilation: 1
+  enableRoslynAnalyzers: 1
+  selectedLightingSettingsInspector: {fileID: 0}
+  selectedScenesGUIState:
+  - maximize
+  m_EnableBakingStrippedShaders: 0
+  oneClickPublishNetwork: 0
+  stripEngineCode: 1
+  enableUnityAnalytics: 0
+  enableCrashReporting: 1
+  enableAudioManager: 1
+  enableAudioMixer: 1
+  enableAudioRandomContainer: 1
+  enableAudioResource: 1
+  enableInputManager: 1
+  enableInputSystem: 1
+  enableNetManager: 1
+  enableNetTransport: 1
+  enablePhysics: 1
+  enablePhysics2D: 1
+  enableVFX: 1
+  enableLocalization: 1
+  enableTextRendering: 1
+  enableVirtualTexturing: 0
+  enableVideo: 1
+  enableXR: 0
+  textureStreamingDebugMipInfoTextureHeight: 0
+  textureStreamingDebugMipInfoTextureWidth: 0
+  textureStreamingDebugMipInfoHash: 
+  textureStreamingMaxLevelCount: 0
+  textureStreamingMaxMemoryUsage: 33554432
+  textureStreamingPoolSize: 2147483647
+  textureStreamingDebugMipInfoHash: 
+  textureStreamingMaxNonStreamingTextureMemory: 524288000
+  platformMinimumOsVersion: {}
+  allowFullscreenDefault: 1
+  alwaysShowGO: 1
+  showOSKeyboardOnDemand: 1
+  restoreResolutionOnFocus: 1
+  runInBackgroundToggle: 0
+  useResolutionDialogs: 1
+  resolutionDialogBanner: {fileID: 0}

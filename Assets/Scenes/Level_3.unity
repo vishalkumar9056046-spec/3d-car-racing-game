@@ -1,0 +1,10 @@
+%YAML 1.1
+%TAG ! tag:yaml.org,2002:yaml-unsafe
+--- !u!29 &1
+SceneSettings:
+  m_ObjectHideFlags: 0
+--- !u!104 &2
+RenderSettings:
+  m_ObjectHideFlags: 0
+  m_Fog: 0
+  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
